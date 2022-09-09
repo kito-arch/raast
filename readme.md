@@ -1,11 +1,5 @@
 ### Raast Payment Gateway for Woocommerce ###
-Contributors: hmkhan315
-Tags: raast, payment, gateway, woocommerce, raastid
-Requires at least: 5.3
-Tested up to: 6.0.2
-Requires PHP: 7.3
-License: GPLv3
-License URI: https://www.gnu.org/licenses/quick-guide-gplv3.html
+
 
 Raast Payment Gateway Plugin lets your customer pay with RAAST ID.
 
