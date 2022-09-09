@@ -22,9 +22,9 @@ Raast Payment Gateway Plugin is used with woocommerce. It is made so that you ca
 7. If you want to customize IPN, you can do it in ipn.php which should be present in root directory of this plugin
 
 ## Frequently Asked Questions ##
-# Is it free #
+#### Is it free ####
 Yes, it is free plugin
-# What is test mail and verification code #
+#### What is test mail and verification code ####
 According to [RAASTID](https://www.raastid.com/api-documentation), test mail is \'test_mode@mail.com\' and test verification code is \'222666\'
-# How to customize code of IPN #
+#### How to customize code of IPN ####
 You can customize it in ipn.php in root directory of this plugin
