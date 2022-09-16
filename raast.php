@@ -1,11 +1,11 @@
 <?php
 /*
- * Plugin Name: Raast Payment Gateway for Woocommerce
- * Plugin URI: https://husnaincodes.com/wp-plugins/raast-payment-gateway-for-woocommerce/
+ * Plugin Name: Payment Gateway for Raast on Woocommerce
+ * Plugin URI: https://husnaincodes.com/wp-plugins/wc-raast-payment-gateway/
  * Description: This plugin helps you integrate Raast Payment Gateway for Woocommerce.
  * Author: Husnain Mustafa
  * Author URI: https://husnaincodes.com
- * Version: 1.0.3
+ * Version: 1.0.0
  */
 
 add_filter( 'woocommerce_payment_gateways', 'add_raast_class' );

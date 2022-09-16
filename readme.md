@@ -1,4 +1,4 @@
-### Raast Payment Gateway for Woocommerce ###
+### Payment Gateway for Raast on Woocommerce ###
 
 
 Raast Payment Gateway Plugin lets your customer pay with RAAST ID.
@@ -10,7 +10,7 @@ Raast Payment Gateway Plugin is used with woocommerce. It is made so that you ca
 1. Download this plugin
 2. Activate this plugin
 3. Go to Woocommerce -> Settings -> Payments
-4. Turn on *Raast Payment Gateway for Woocommerce*
+4. Turn on *Payment Gateway for Raast on Woocommerce*
 5. Click on *Manage*
 6. Fill in the details
 7. If you want to customize IPN, you can do it in ipn.php which should be present in root directory of this plugin
